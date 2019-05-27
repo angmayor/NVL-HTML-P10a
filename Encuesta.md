@@ -24,6 +24,10 @@
         <label for=”email”>Email:</label>
         <input id=”email” type=”text”>
       </div>
+      <div>
+        <label for=”puntos”>Puntos Positivos:</label>
+        <textarea id=”puntos”></textarea>
+      </div>
     </form>
   </body>
 </html>
