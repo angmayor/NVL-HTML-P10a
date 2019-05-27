@@ -7,6 +7,10 @@
   <body>
     <from method="post" action="miservidor.php">
       <div>
+        <label for=”cp”>Codigo Postal:</label>
+        <input id=”cp” type=”number”>
+      </div>
+      <div>
         <label for=”satisfaccion”>Nivel de Satisfaccion:</label>
         <select id=”satisfaccion”>
         <option value=”1”>1</option>
@@ -17,8 +21,8 @@
         </select>
       </div>
       <div>
-        <label for=”lugar”>Lugar de nacimiento:</label>
-        <input id=”lugar” type=”text”>
+        <label for=”email”>Email:</label>
+        <input id=”email” type=”text”>
       </div>
     </form>
   </body>
