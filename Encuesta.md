@@ -25,8 +25,21 @@
         <input id=”email” type=”text”>
       </div>
       <div>
-        <label for=”puntos”>Puntos Positivos:</label>
-        <input id=”puntos” type="text">
+        <label for=”puntospositivos”>Puntos Positivos:</label>
+        <input id=”puntospositivos” type="text">
+      </div>
+      <div>
+        <label for=”puntosnegativos”>Puntos Negativos:</label>
+        <input id=”puntosnegativos” type="text">
+      </div>
+      <div>
+        <label for=”calidad”>Calidad del producto:</label>
+        <select id=”calidad”>
+        <option value=”excelente”>1</option>
+        <option value=”bueno”>2</option>
+        <option value=”regular”>3</option>
+        <option value=”pesimo”>4</option>
+        </select>
       </div>
     </form>
   </body>
