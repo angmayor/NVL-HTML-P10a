@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-6">
     <h2>Encuesta de Satisfaccion</h2>
   </head>
   <body>
