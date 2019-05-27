@@ -35,6 +35,15 @@
       <div>
         <label for=”calidad”>Calidad del producto:</label>
         <select id=”calidad”>
+        <option value=”4”>excelente</option>
+        <option value=”3”>bueno</option>
+        <option value=”2”>regular</option>
+        <option value=”1”>pesimo</option>
+        </select>
+      </div>
+      <div>
+        <label for=”Cantidad”>Cantidad del producto:</label>
+        <select id=”cantidad”>
         <option value=”excelente”>excelente</option>
         <option value=”bueno”>bueno</option>
         <option value=”regular”>regular</option>
