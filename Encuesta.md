@@ -26,7 +26,7 @@
       </div>
       <div>
         <label for=”puntos”>Puntos Positivos:</label>
-        <textarea id=”puntos”></textarea>
+        <input id=”puntos” type="text">
       </div>
     </form>
   </body>
